@@ -10,9 +10,18 @@ public class DepthTracker {
         cur.set(d);
         max.updateAndGet(x -> Math.max(x, d));
     }
+
     public void exit() {
-        cur.set(cur.get() - 1);
+        int v = cur.get() - 1;
+        cur.set(Math.max(0, v));
     }
-    public int maxDepth() { return max.get(); }
-    public void reset() { cur.set(0); max.set(0); }
+
+    public int maxDepth() {
+        return max.get();
+    }
+
+    public void reset() {
+        cur.set(0);
+        max.set(0);
+    }
 }

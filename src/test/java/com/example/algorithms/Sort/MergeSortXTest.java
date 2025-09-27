@@ -2,6 +2,7 @@ package com.example.algorithms.Sort;
 import org.example.Metrics.MetricCounters;
 import org.example.Sort.MergeSortX;
 import org.junit.jupiter.api.Test;
+
 import java.util.Arrays;
 import java.util.Random;
 
@@ -47,4 +48,3 @@ public class MergeSortXTest {
         assertArrayEquals(expected, arr);
     }
 }
-

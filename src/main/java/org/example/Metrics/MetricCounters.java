@@ -8,6 +8,8 @@ public class MetricCounters {
     public final DepthTracker depth = new DepthTracker();
 
     public void reset() {
-        comp.set(0); alloc.set(0); depth.reset();
+        comp.set(0);
+        alloc.set(0);
+        depth.reset();
     }
 }
