@@ -20,7 +20,6 @@
             <version>5.10.0</version>
             <scope>test</scope>
         </dependency>
-        <!-- JMH for bench -->
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
             <artifactId>jmh-core</artifactId>
