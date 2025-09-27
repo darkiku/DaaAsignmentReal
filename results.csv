@@ -1,0 +1,4 @@
+algo,n,trial,time_ns,comps,alloc,depth
+mergesort,1000,0,5185000,13331,5000,5
+mergesort,1000,1,991000,13350,5000,5
+mergesort,1000,2,919100,13262,5000,5
