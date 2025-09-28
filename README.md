@@ -53,7 +53,7 @@ It accepts several arguments:
 --n <size>
 --trials <t>
 --seed <s>
---out <file>
+out <file>
 
 Example
 java -cp target/daa-assignment1-1.0-SNAPSHOT.jar da.cli.MainRunner \
