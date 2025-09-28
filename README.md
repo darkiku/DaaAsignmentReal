@@ -5,6 +5,9 @@ The goal of the assignment is to implement several classical algorithms, measure
 and create a small framework for experiments, testing, and reporting.  
 
 ---
+this is my graphic tho :
+<img width="1779" height="575" alt="{763A193E-33F8-4F51-8D38-D213409E09AB}" src="https://github.com/user-attachments/assets/e49b7209-b868-41ad-9bf1-e91a2b676a19" />
+
 
 ## Algorithms Implemented
 
