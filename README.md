@@ -8,6 +8,9 @@ and create a small framework for experiments, testing, and reporting.
 this is my graphic tho :
 <img width="1779" height="575" alt="{763A193E-33F8-4F51-8D38-D213409E09AB}" src="https://github.com/user-attachments/assets/e49b7209-b868-41ad-9bf1-e91a2b676a19" />
 
+and running this there:
+<img width="1168" height="839" alt="{6055FFD1-F0D5-4FC8-BAA7-A12BEBF5C109}" src="https://github.com/user-attachments/assets/55a1215c-604d-43c6-9043-ba2578a6a739" />
+
 
 ## Algorithms Implemented
 
