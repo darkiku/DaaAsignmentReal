@@ -70,8 +70,7 @@ I also implemented a small **JMH benchmark** (`SelectVsSortBench`):
 - Benchmarks are done for different input sizes.  
 
 ---
-
-## Testing
+ Testing
 
 All code is tested with **JUnit 5**.  
 Tests cover:
