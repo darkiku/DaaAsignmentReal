@@ -53,6 +53,7 @@ It accepts several arguments:
 --n <size>
 --trials <t>
 --seed <s>
+
 --out <file>
 
 ### Example
